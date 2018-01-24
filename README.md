@@ -10,6 +10,6 @@ IEEE Transactions on Speech and Audio Processing 10 (6), 379-390
 https://nbviewer.jupyter.org/github/GuitarsAI/ApaptiveFiltersPerceptualAudio/blob/master/FilterApplication-Interact.ipynb
 <br>
 *The excerpts of songs used in this jupyter notebook are for educational purposes only. <br>
-This jupyter notebook is an application example of a project in partnership with Dr. Suresh Kumaraswamy, Professor at Government Engineering College, Thiruvananthapuramunder, India and under the supervision of Prof. Dr.-Ing. Gerald Schuller, Head of the Department for Applied Media Systems at TU Ilmenau.
+This jupyter notebook is an application example of a project in partnership with Dr. Suresh Kumaraswamy, Professor at Government Engineering College, Thiruvananthapuram, India and under the supervision of Prof. Dr.-Ing. Gerald Schuller, Head of the Department for Applied Media Systems at TU Ilmenau.
 <br><br>
 Artificial Intelligence Applied to Guitars https://www.facebook.com/GuitarsAI/ <br>[instagram] @guitars.ai
